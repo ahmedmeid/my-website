@@ -1,0 +1,44 @@
+h1 {
+  font-family: "open sans", sans-serif;
+  font-feature-settings: "dlig", "liga", "lnum", "kern";
+  font-size: 48px;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: merriweather, serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.about {
+  margin-left: 260px;
+  margin-right: 200px;
+}
+
+.title {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.profile-pic {
+  margin-top: 30px;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-feature-settings: "kern";
+  letter-spacing: 0.16px;
+  line-height: 28px;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.main-content {
+  margin: 0 auto;
+  width: 50%;
+}
+
